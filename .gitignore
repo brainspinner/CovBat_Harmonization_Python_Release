@@ -8,3 +8,4 @@ Python/*.txt
 .Rproj.user
 .ipynb_checkpoints/
 Python/.ipynb_checkpoints/
+our_datasets/*
