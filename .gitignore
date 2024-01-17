@@ -6,3 +6,5 @@
 Python/*.txt
 *.DS_Store
 .Rproj.user
+.ipynb_checkpoints/
+Python/.ipynb_checkpoints/
